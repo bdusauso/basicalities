@@ -20,6 +20,7 @@ class DigitsMirrorTest {
             Arguments.of(72539, 93527),
             Arguments.of(0, 0),
             Arguments.of(5, 5),
-            Arguments.of(123, 321));
+            Arguments.of(123, 321),
+            Arguments.of(100, 1));
     }
 }
